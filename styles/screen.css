@@ -28,7 +28,7 @@ header h1 {
 }
 
 main {
-    background: url('/images/polaroid.png') no-repeat center 100px;
+    background: url('/images/polaroid.png') no-repeat center 100px; /*image provided from Professor Jeff Siarto*/
     margin: 0 auto;
     width: 1000px;
 }
