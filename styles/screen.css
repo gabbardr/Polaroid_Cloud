@@ -74,19 +74,19 @@ main {
 }
 
 .second_title ul li.wifi {
-    background: url(/images/wifi-solid.svg) no-repeat center left;
+    background: url(/images/wifi-solid.svg) no-repeat center left; /*Image used from FontAwesome.com from following instructional video*/
 }
 
 .second_title ul li.cloud {
-    background: url(/images/cloud-arrow-up-solid.svg) no-repeat center left;
+    background: url(/images/cloud-arrow-up-solid.svg) no-repeat center left; /*Image used from FontAwesome.com from following instructional video*/
 }
 
 .second_title ul li.qr_code {
-    background: url(/images/qrcode-solid.svg) no-repeat center left;
+    background: url(/images/qrcode-solid.svg) no-repeat center left; /*Image used from FontAwesome.com from following instructional video*/
 }
 
 .second_title ul li.reel_images {
-    background: url(/images/photo-film-solid.svg) no-repeat center left;
+    background: url(/images/photo-film-solid.svg) no-repeat center left; /*Image used from FontAwesome.com from following instructional video*/
 }
 
 .last_title {
